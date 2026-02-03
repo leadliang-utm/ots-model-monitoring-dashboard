@@ -1,0 +1,3 @@
+timestamp,model_version,model_type,input_summary,prediction,latency_ms,feedback_score,feedback_text
+2026-02-03T16:06:37.577213,v1_old,baseline,"StartHour=3, TurnAroundTime=69, DisplayValue=OR 2, ProposedProcedure=GASTSCP - GASTROSCOPY;",146.52665088133597,24.783849716186523,3,ok
+2026-02-03T16:06:37.600748,v2_new,improved,"StartHour=3, TurnAroundTime=69, DisplayValue=OR 2, ProposedProcedure=GASTSCP - GASTROSCOPY;",141.58047063963068,24.783849716186523,4,ok
